@@ -1,0 +1,342 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Items matches the rendered snapshot 1`] = `
+<div>
+  <div
+    class="slick-slider slick-initialized"
+    dir="ltr"
+  >
+    <button
+      class="slick-arrow slick-prev slick-disabled"
+      data-role="none"
+      style="display: block;"
+      type="button"
+    >
+       
+      Previous
+    </button>
+    <div
+      class="slick-list"
+    >
+      <div
+        class="slick-track"
+        style="opacity: 1; transform: translate3d(0px, 0px, 0px);"
+      >
+        <div
+          aria-hidden="false"
+          class="slick-slide slick-active slick-current"
+          data-index="0"
+          style="outline: none; width: 0px;"
+          tabindex="-1"
+        >
+          <div>
+            <div
+              style="width: 100%; display: inline-block;"
+              tabindex="-1"
+            >
+              <div
+                class="c-product-carousel__item"
+              >
+                <div
+                  class="c-product-carousel__item-image-container"
+                >
+                  <img
+                    alt=""
+                    class="c-product-carousel__item-image"
+                    src="https://secretsales-prod-product-images.s3-eu-west-1.amazonaws.com/686175/2af147f69c072085d3ac53b14296e1fa.jpg"
+                  />
+                </div>
+                <h3
+                  class="c-product-carousel__item-title"
+                >
+                  I am a title am a title am a title am a title
+                </h3>
+                <p
+                  class="c-product-carousel__item-price"
+                >
+                  £48.00
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div
+          aria-hidden="false"
+          class="slick-slide slick-active"
+          data-index="1"
+          style="outline: none; width: 0px;"
+          tabindex="-1"
+        >
+          <div>
+            <div
+              style="width: 100%; display: inline-block;"
+              tabindex="-1"
+            >
+              <div
+                class="c-product-carousel__item"
+              >
+                <div
+                  class="c-product-carousel__item-image-container"
+                >
+                  <img
+                    alt=""
+                    class="c-product-carousel__item-image"
+                    src="https://www.brodi.com/image/cache/data/color_swatch/5-100x100.jpg"
+                  />
+                </div>
+                <h3
+                  class="c-product-carousel__item-title"
+                >
+                  I am a title am a title am a title am a title I am a title am a title am a title am a title I am a title am a title am a title am a title I am a title am a title am a title am a title
+                </h3>
+                <p
+                  class="c-product-carousel__item-price"
+                >
+                  £48.00
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div
+          aria-hidden="false"
+          class="slick-slide slick-active"
+          data-index="2"
+          style="outline: none; width: 0px;"
+          tabindex="-1"
+        >
+          <div>
+            <div
+              style="width: 100%; display: inline-block;"
+              tabindex="-1"
+            >
+              <div
+                class="c-product-carousel__item"
+              >
+                <div
+                  class="c-product-carousel__item-image-container"
+                >
+                  <img
+                    alt=""
+                    class="c-product-carousel__item-image"
+                    src="https://secretsales-prod-product-images.s3-eu-west-1.amazonaws.com/649894/8d2af934b2df22f5be7d4cc3c08497a3.jpg"
+                  />
+                </div>
+                <h3
+                  class="c-product-carousel__item-title"
+                >
+                  I am a title am a title am a title am a title
+                </h3>
+                <p
+                  class="c-product-carousel__item-price"
+                >
+                  £48.00
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div
+          aria-hidden="false"
+          class="slick-slide slick-active"
+          data-index="3"
+          style="outline: none; width: 0px;"
+          tabindex="-1"
+        >
+          <div>
+            <div
+              style="width: 100%; display: inline-block;"
+              tabindex="-1"
+            >
+              <div
+                class="c-product-carousel__item"
+              >
+                <div
+                  class="c-product-carousel__item-image-container"
+                >
+                  <img
+                    alt=""
+                    class="c-product-carousel__item-image"
+                    src="https://secretsales-prod-product-images.s3-eu-west-1.amazonaws.com/662569/586517eb71a571d3f3a56bbdb7b7d015.jpg"
+                  />
+                </div>
+                <h3
+                  class="c-product-carousel__item-title"
+                >
+                  I am a title am a title am a title am a title
+                </h3>
+                <p
+                  class="c-product-carousel__item-price"
+                >
+                  £48.00
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div
+          aria-hidden="true"
+          class="slick-slide"
+          data-index="4"
+          style="outline: none; width: 0px;"
+          tabindex="-1"
+        >
+          <div>
+            <div
+              style="width: 100%; display: inline-block;"
+              tabindex="-1"
+            >
+              <div
+                class="c-product-carousel__item"
+              >
+                <div
+                  class="c-product-carousel__item-image-container"
+                >
+                  <img
+                    alt=""
+                    class="c-product-carousel__item-image"
+                    src="https://secretsales-prod-product-images.s3-eu-west-1.amazonaws.com/686175/2af147f69c072085d3ac53b14296e1fa.jpg"
+                  />
+                </div>
+                <h3
+                  class="c-product-carousel__item-title"
+                >
+                  I am a title am a title am a title am a title
+                </h3>
+                <p
+                  class="c-product-carousel__item-price"
+                >
+                  £48.00
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div
+          aria-hidden="true"
+          class="slick-slide"
+          data-index="5"
+          style="outline: none; width: 0px;"
+          tabindex="-1"
+        >
+          <div>
+            <div
+              style="width: 100%; display: inline-block;"
+              tabindex="-1"
+            >
+              <div
+                class="c-product-carousel__item"
+              >
+                <div
+                  class="c-product-carousel__item-image-container"
+                >
+                  <img
+                    alt=""
+                    class="c-product-carousel__item-image"
+                    src="https://www.brodi.com/image/cache/data/color_swatch/5-100x100.jpg"
+                  />
+                </div>
+                <h3
+                  class="c-product-carousel__item-title"
+                >
+                  I am a title am a title am a title am a title I am a title am a title am a title am a title I am a title am a title am a title am a title I am a title am a title am a title am a title
+                </h3>
+                <p
+                  class="c-product-carousel__item-price"
+                >
+                  £48.00
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div
+          aria-hidden="true"
+          class="slick-slide"
+          data-index="6"
+          style="outline: none; width: 0px;"
+          tabindex="-1"
+        >
+          <div>
+            <div
+              style="width: 100%; display: inline-block;"
+              tabindex="-1"
+            >
+              <div
+                class="c-product-carousel__item"
+              >
+                <div
+                  class="c-product-carousel__item-image-container"
+                >
+                  <img
+                    alt=""
+                    class="c-product-carousel__item-image"
+                    src="https://secretsales-prod-product-images.s3-eu-west-1.amazonaws.com/649894/8d2af934b2df22f5be7d4cc3c08497a3.jpg"
+                  />
+                </div>
+                <h3
+                  class="c-product-carousel__item-title"
+                >
+                  I am a title am a title am a title am a title
+                </h3>
+                <p
+                  class="c-product-carousel__item-price"
+                >
+                  £48.00
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div
+          aria-hidden="true"
+          class="slick-slide"
+          data-index="7"
+          style="outline: none; width: 0px;"
+          tabindex="-1"
+        >
+          <div>
+            <div
+              style="width: 100%; display: inline-block;"
+              tabindex="-1"
+            >
+              <div
+                class="c-product-carousel__item"
+              >
+                <div
+                  class="c-product-carousel__item-image-container"
+                >
+                  <img
+                    alt=""
+                    class="c-product-carousel__item-image"
+                    src="https://secretsales-prod-product-images.s3-eu-west-1.amazonaws.com/662569/586517eb71a571d3f3a56bbdb7b7d015.jpg"
+                  />
+                </div>
+                <h3
+                  class="c-product-carousel__item-title"
+                >
+                  I am a title am a title am a title am a title
+                </h3>
+                <p
+                  class="c-product-carousel__item-price"
+                >
+                  £48.00
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <button
+      class="slick-arrow slick-next"
+      data-role="none"
+      style="display: block;"
+      type="button"
+    >
+       
+      Next
+    </button>
+  </div>
+</div>
+`;
